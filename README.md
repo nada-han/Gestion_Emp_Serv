@@ -12,6 +12,8 @@ Le projet **Gestion_Emp_Serv** est un système conçu pour gérer les employés 
 
 ![2](https://github.com/nada-han/Gestion_Emp_Serv/assets/124934843/8ffbfdbb-fbb9-486a-a9af-24d7fa3f96af)
 
+ ![8](https://github.com/nada-han/Gestion_Emp_Serv/assets/124934843/17c616b9-71a7-4af9-a684-1da768c645ad)
+
 ### 2. Gestion des services
 
 - **Créer un service :**
@@ -24,8 +26,6 @@ Le projet **Gestion_Emp_Serv** est un système conçu pour gérer les employés 
   - Retirer les services qui ne sont plus nécessaires.
 
  ![6](https://github.com/nada-han/Gestion_Emp_Serv/assets/124934843/ed34f4ce-b2e9-4a3b-9530-6ddc5d04325e)
-
- ![8](https://github.com/nada-han/Gestion_Emp_Serv/assets/124934843/17c616b9-71a7-4af9-a684-1da768c645ad)
 
 - **Statistique des services existants avec le nombre d'employés :**
 
