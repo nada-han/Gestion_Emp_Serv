@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/domaine/Service1Bean.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/service/EmployeService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/domaine/EmployeBean.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/beans/Employe.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/employe/employeForm.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/newTemplate.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/salle/index.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/Test.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/service/MachineService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/newTemplateClient1.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/domaine/MachineBean.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/salle/machineForm.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/salle/salleForm.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/domaine/SalleBean.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/beans/Service1.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/domaine/EmployeWrapper.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/Test1.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/welcomePrimefaces.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/beans/Machine.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/beans/Salle.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/service/Service1Service.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/web/service/serviceForm.xhtml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/src/java/ma/projet/service/SalleService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/jsf7/jsf7/web/index.xhtml</file>
+        </group>
+    </open-files>
+</project-private>
